@@ -1,2 +1,1 @@
-# rating_system
-A rating system for new coins.
+# Rating System for new coins.
